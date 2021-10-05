@@ -7,6 +7,4 @@ I took this course for mastering maths.
 Link to the course : https://www.udemy.com/course/math-with-python
 
 
-On the instructor's website, maybe you could find coupons:  http://sincxpress.com/
-
-
+On the instructor's website, maybe you could find coupon discount:  http://sincxpress.com/
