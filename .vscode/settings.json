@@ -1,3 +1,11 @@
 {
-  "python.pythonPath": "/home/adel/miniconda3/envs/ML_DS/bin/python"
+  "python.pythonPath": "/home/adel/miniconda3/envs/MathPy/bin/python",
+  "python.linting.pycodestyleEnabled": true,
+  "python.linting.pycodestyleArgs": ["--max-line-length=88"],
+  "python.linting.pylintEnabled": true,
+  "python.formatting.provider": "black",
+  "[python]": {
+    "editor.formatOnSave": true
+  },
+  "python.languageServer": "None"
 }
