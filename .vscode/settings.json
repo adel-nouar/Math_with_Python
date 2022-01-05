@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": "/home/adel/miniconda3/envs/MathPy/bin/python",
+  "python.pythonPath": "/home/adel/miniconda3/envs/ML_DS/bin/python",
   "python.linting.pycodestyleEnabled": true,
   "python.linting.pycodestyleArgs": ["--max-line-length=88"],
   "python.linting.pylintEnabled": true,
